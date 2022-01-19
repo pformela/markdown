@@ -36,6 +36,7 @@ To jest <ins>podkreślenie</ins>
 - czwarty punkt
 
 Blok kodu:
+
 		list = [[x for x in range(9)] for y in range(9)]
 		for item in list:
 			print(item)
@@ -43,6 +44,7 @@ Blok kodu:
 
 Vestibulum eget arcu at turpis fringilla consectetur sed convallis risus.
 Donec a risus egestas, fringilla justo eget, varius justo. In hac habitasse platea dictumst.
+
 		package com.company
 
 		public class HelloClass {
@@ -53,4 +55,4 @@ Donec a risus egestas, fringilla justo eget, varius justo. In hac habitasse plat
 Vestibulum congue mauris mi, id porta ligula auctor in.
 Fusce placerat, augue nec tincidunt pharetra, erat sapien finibus mauris, non ornare est urna posuere nulla.
 
-![obrazek][obrazek.png]
+![obrazek](obrazek.png)
