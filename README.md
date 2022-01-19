@@ -43,16 +43,7 @@ Blok kodu:
 
 
 Vestibulum eget arcu at turpis fringilla consectetur sed convallis risus.
-Donec a risus egestas, fringilla justo eget, varius justo. In hac habitasse platea dictumst.
-
-		package com.company
-
-		public class HelloClass {
-			public static void main(String[] args) {
-				System.out.println("Hello!")
-			}
-		}
-Vestibulum congue mauris mi, id porta ligula auctor in.
+Donec a risus egestas, fringilla justo eget, varius justo. In hac habitasse platea dictum. ```public static void main(String[] args)```. Vestibulum congue mauris mi, id porta ligula auctor in.
 Fusce placerat, augue nec tincidunt pharetra, erat sapien finibus mauris, non ornare est urna posuere nulla.
 
 ![obrazek](obrazek.png)
